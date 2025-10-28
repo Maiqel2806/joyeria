@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "name": "Anillo Sol",
+    "category": "Anillos",
+    "material": "Plata 925",
+    "price": 69,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-09-10",
+    "image": "https://images.unsplash.com/photo-1617038260897-83a57f87cf8e?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "solitario",
+      "minimal",
+      "regalo"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aros Minimal",
+    "category": "Aretes",
+    "material": "Baño de Oro 18k",
+    "price": 59,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-08-28",
+    "image": "https://images.unsplash.com/photo-1603575449299-0b3c4ae00ca3?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "aros",
+      "clásico",
+      "liso"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pulsera Cadena",
+    "category": "Pulseras",
+    "material": "Acero hipoalergénico",
+    "price": 48,
+    "oldPrice": 60,
+    "onSale": true,
+    "createdAt": "2025-09-20",
+    "image": "https://images.unsplash.com/photo-1659636362862-0dba5f5dea9b?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "cadena",
+      "urbano"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Collar Perla",
+    "category": "Collares",
+    "material": "Plata 925",
+    "price": 85,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-09-30",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "perla",
+      "elegante"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charm Corazón",
+    "category": "Charms",
+    "material": "Baño de Oro 18k",
+    "price": 39,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-08-18",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "corazón",
+      "detalle"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Anillo Pavé",
+    "category": "Anillos",
+    "material": "Baño de Oro 18k",
+    "price": 72,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-07-05",
+    "image": "https://images.unsplash.com/photo-1599643478783-56bbd95b3d25?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "pavé",
+      "brillo"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Aretes Perla",
+    "category": "Aretes",
+    "material": "Plata 925",
+    "price": 64,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-05-22",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "perla",
+      "clásico"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Medallón Brillo",
+    "category": "Collares",
+    "material": "Baño de Oro 18k",
+    "price": 92,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-06-01",
+    "image": "https://images.unsplash.com/photo-1556228578-8fb701ee4c12?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "medallón",
+      "statement"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Pulsera Eslabón",
+    "category": "Pulseras",
+    "material": "Plata 925",
+    "price": 58,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-08-08",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "eslabón",
+      "clásico"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Charm Estrella",
+    "category": "Charms",
+    "material": "Plata 925",
+    "price": 34,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-09-01",
+    "image": "https://images.unsplash.com/photo-1543294001-f7cd5d7fb516?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "estrella",
+      "cielo"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Anillo Trenza",
+    "category": "Anillos",
+    "material": "Plata 925",
+    "price": 65,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-08-25",
+    "image": "https://images.unsplash.com/photo-1516632664305-eda5f98a1f4b?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "trenza",
+      "orgánico"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Collar Luna",
+    "category": "Collares",
+    "material": "Plata 925",
+    "price": 88,
+    "oldPrice": 0,
+    "onSale": false,
+    "createdAt": "2025-08-02",
+    "image": "https://images.unsplash.com/photo-1523292562811-8fa7962a78c8?q=80&w=1200&auto=format&fit=crop",
+    "tags": [
+      "luna",
+      "místico"
+    ]
+  }
+]
